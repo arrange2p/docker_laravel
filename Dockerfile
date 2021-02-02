@@ -36,3 +36,8 @@ RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf
 
 EXPOSE 80 443
 ENTRYPOINT /home/dev1/entrypoint.sh
+
+ㅇㄹㄴㅇ
+ㄹㅇㄴ
+ㄹㅇㄴㄹㅇㄴ
+ㄹ
